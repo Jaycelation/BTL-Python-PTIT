@@ -177,16 +177,8 @@ The project evaluates 11 machine learning models on the test set. Below are the 
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements. Ensure that your code follows the project's coding style and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) for providing the data.
 - [scikit-learn](https://scikit-learn.org/) for machine learning tools.
 - [NLTK](https://www.nltk.org/) for NLP preprocessing.
-
-## Contact
-
-For any questions or issues, please open an issue on GitHub or contact the author at [your-email@example.com].
